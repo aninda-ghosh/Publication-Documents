@@ -7,11 +7,11 @@ This Repository contains my Research Publications.
 ```
 Publication Documents
 ├── Papers
-│   └── 10.11648.j.ijmi.20160404.11.pdf
-├── Patent
-│   ├── Complete Specification.pdf
+│   └── 10.11648.j.ijmi.20160404.11.pdf -> Brain Tumor Texture Analysis – Using Wavelets and Fractals
+├── Patent -> Smart Navigation System for visually challenged persons
+│   ├── Complete Specification.pdf 
 │   └── Patent Details.pdf
-└── Thesis
+└── Thesis -> Vision-X (Smart Navigation System for visually challenged persons)
     ├── Thesis-Complete.pdf
     └── Thesis-Output.pdf
 ```
